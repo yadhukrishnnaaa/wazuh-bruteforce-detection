@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "Apr 4, 2026 @ 14:43:50.685",
+    "agent": "win11",
+    "rule": {
+      "id": 100200,
+      "level": 15,
+      "description": "Brute Force Attack from on user FakeUser"
+    }
+  },
+  {
+    "timestamp": "Apr 4, 2026 @ 14:43:49.769",
+    "agent": "win11",
+    "rule": {
+      "id": 100200,
+      "level": 15,
+      "description": "Brute Force Attack from on user FakeUser"
+    }
+  }
+]
