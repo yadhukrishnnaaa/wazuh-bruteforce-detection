@@ -1,0 +1,13 @@
+<rule id="100200" level="15" frequency="5" timeframe="60">
+  <if_matched_sid>60122</if_matched_sid>
+
+  <description>
+    Brute Force Attack from user $(win.eventdata.targetUserName)
+  </description>
+
+  <group>authentication_failures, brute_force, attack</group>
+
+  <mitre>
+    <id>T1110</id>
+  </mitre>
+</rule>
