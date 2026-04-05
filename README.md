@@ -1,12 +1,12 @@
-# 🔐 Brute Force Detection using Wazuh
+# Brute Force Detection using Wazuh
 
-## 📌 Overview
+##  Overview
 This project demonstrates detection of SSH brute force attacks using **Wazuh SIEM**.  
 A simulated attack was performed from **Kali Linux** using **Hydra**, and custom Wazuh rules were created to detect multiple failed login attempts in real-time.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - **Wazuh SIEM** – Security monitoring and alerting  
 - **Kali Linux** – Attack simulation platform  
 - **Hydra** – Brute force tool  
@@ -14,7 +14,7 @@ A simulated attack was performed from **Kali Linux** using **Hydra**, and custom
 
 ---
 
-## 🚀 Features
+##  Features
 - Detection of multiple failed SSH login attempts  
 - Real-time correlation using **frequency and timeframe**  
 - Custom Wazuh rule creation  
@@ -23,7 +23,7 @@ A simulated attack was performed from **Kali Linux** using **Hydra**, and custom
 
 ---
 
-## 🧪 Attack Simulation
+##  Attack Simulation
 
 ### 🔹 Attack Steps
 1. Start SSH server on Windows 11.  
